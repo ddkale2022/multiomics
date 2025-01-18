@@ -1,6 +1,18 @@
 # Multiomics project
 
+Multiomics analysis
 
+**In this project you will find bulk transcriptomics, proteomics and phosphoproteomics data processing **
+
+Transcriptomics, proteomics and phosphoproteomics data were obtained from the article [1], which examined LUAD tumors and their adjacent non-cancerous tissues (NATs).
+
+The study's phospho and proteo arrays, available in a CSV file, contains data of 255 features from 41 paired samples.
+
+The 2000 most variable features in the protein and phosphoprotein data were selected based on their relative intensities.
+
+Reference: [1] Xu JY, Zhang C, Wang X, et al. Integrative proteomic characterization of human lung adenocarcinoma. Cell 2020;182(1):245-261.
+
+For normalization, all features in the proteomics and phosphoproteomics data from both normal and tumor tissues were divided by their respective maximum values.
 
 ## Requirements
 
