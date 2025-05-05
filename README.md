@@ -2,7 +2,7 @@
 
 Multiomics analysis
 
-**In this project you will find bulk transcriptomics, proteomics and phosphoproteomics data processing **
+** In this project Dipali Kale and Niharika Garg are working on integrating bulk transcriptomics, proteomics and phosphoproteomics data processing **
 
 Transcriptomics, proteomics and phosphoproteomics data were obtained from the article [1], which examined LUAD tumors and their adjacent non-cancerous tissues (NATs).
 
